@@ -6,6 +6,6 @@ title: "Welcome to our second slide!"
 
 ---
 
-Your text
+Sukesh completed this
 
 Use the left arrow to go back!
